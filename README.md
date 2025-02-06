@@ -24,4 +24,4 @@ To generate a Windows executable file:
    ```
 3. The `.exe` file will be available inside the `dist` folder.
 
-### Let me know if you need any modifications! 🚀
+
